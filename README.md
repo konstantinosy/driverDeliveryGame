@@ -1,6 +1,7 @@
 # Driver Package Delivery Game
 ## A top down 2D driver package delivery game built with Unity and C# with VSCode.
 ### The game can be downloaded through [itch.io](https://konstantinosy.itch.io/driver-package-delivery-game).
+#### The game was programmed with the help of a course.
 
 ![test](https://raw.githubusercontent.com/konstantinosy/driverDeliveryGame/main/gameScreenshot.png)
 
